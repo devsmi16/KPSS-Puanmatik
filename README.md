@@ -17,7 +17,7 @@ Technologies and Tools Used:
         •       MVVM architecture
 
 Features:
-	•	Full support for the official ÖSYM score calculation system.
+	•	Full support for the official OSYM score calculation system.
 	•	Calculate scores for different exam types (like P94, P93, P10, etc.).
 	•	Simple, clean design that’s easy to use.
 	•	Real-time data handling for fast and accurate results.
