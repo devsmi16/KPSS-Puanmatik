@@ -14,6 +14,7 @@ Technologies and Tools Used:
 	•	Crashlytics: To catch and fix bugs easily.
 	•	Google Ads Manager: For monetization with integrated ads.
 	•	Onboarding UX Design: To guide new users step-by-step.
+        •       MVVM architecture
 
 Features:
 	•	Full support for the official ÖSYM score calculation system.
