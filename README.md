@@ -3,7 +3,7 @@ SwiftUI, SwiftData, Firebase, Google Ads Manager, Onboarding UX Design
 
 
 
-This app is built for KPSS candidates to quickly and accurately calculate their exam scores based on the official ÖSYM system. With a clean design and reliable tech, it makes exam prep a lot smoother.
+This app is built for KPSS candidates to quickly and accurately calculate their exam scores based on the official OSYM system. With a clean design and reliable tech, it makes exam prep a lot smoother.
 
 Technologies and Tools Used:
 	•	SwiftUI: For a modern and user-friendly interface.
